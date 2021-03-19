@@ -4,16 +4,17 @@
 /node_modules
 /.pnp
 .pnp.js
-/firebase
+.firebase/
 .firebaserc
 firebase.json
-NOTEs.txt
-
+NOTE.txt
+package-lock.json
 # testing
 /coverage
 
 # production
 /build
+/bundle
 
 # misc
 .DS_Store
